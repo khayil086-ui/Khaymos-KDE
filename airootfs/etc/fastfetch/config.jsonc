@@ -1,0 +1,29 @@
+{
+    "logo":{
+        "source":"/etc/fastfetch/Khaymoss.txt",
+        "type": "file"
+    },
+    "modules": [
+        "title",
+        "seperator",
+        "os",
+        "host",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "de",
+        "wm",
+        "theme",
+        "icons",
+        "terminal",
+        "cpu",
+        "gpu",
+        "memory",
+        "disk",
+        "localip",
+        "battery",
+        "colors"
+    ]
+}
+

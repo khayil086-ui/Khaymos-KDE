@@ -1,0 +1,7 @@
+NAME="Khaymos"
+PRETTY_NAME="Khaymos Linux"
+ID=khaymos
+ID_LIKE=artix arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+LOGO=khaymos

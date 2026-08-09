@@ -1,0 +1,13 @@
+#!/sbin/openrc-run
+
+name="sddm"
+description="Simple Desktop Display Manager"
+command="/usr/bin/sddm"
+command_background="yes"
+supervisor="supervise-daemon"
+command="/usr/bin/sddm"
+
+depend() {
+    need dbus
+    after udev
+}
